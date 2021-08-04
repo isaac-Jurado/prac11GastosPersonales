@@ -1,0 +1,3 @@
+function loginDeUsuario(){
+    return false;
+}
